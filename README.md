@@ -16,3 +16,6 @@ cd FZC-A
 
 python main.py
 
+enter zip file path
+
+enter password file path
