@@ -5,7 +5,6 @@ Simple Zip File Password Attack tool
 Termux 
 ```
 pkg update
-
 ```
 ```
 pkg upgrade
