@@ -21,6 +21,6 @@ cd FZC-A
 ```
 python main.py
 ```
-<h3>enter zip file path</h3>
+-enter zip file path
 
-enter password file path
+-enter password file path
